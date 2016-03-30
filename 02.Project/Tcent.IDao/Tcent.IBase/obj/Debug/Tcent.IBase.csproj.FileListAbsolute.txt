@@ -1,0 +1,22 @@
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.IDao\Tcent.IBase\bin\Debug\Tcent.IBase.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.IDao\Tcent.IBase\bin\Debug\Tcent.IBase.pdb
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.IDao\Tcent.IBase\obj\Debug\Tcent.IBase.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.IDao\Tcent.IBase\obj\Debug\Tcent.IBase.pdb
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.IDao\Tcent.IBase\bin\Debug\Tcent.Common.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.IDao\Tcent.IBase\bin\Debug\Tcent.Domain.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.IDao\Tcent.IBase\bin\Debug\Tcent.Common.pdb
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.IDao\Tcent.IBase\bin\Debug\Tcent.Domain.pdb
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.IDao\Tcent.IBase\obj\Debug\Tcent.IBase.csprojResolveAssemblyReference.cache
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.IDao\Tcent.IBase\bin\Debug\Tcent.IBase.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.IDao\Tcent.IBase\bin\Debug\Tcent.IBase.pdb
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.IDao\Tcent.IBase\bin\Debug\log4net.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.IDao\Tcent.IBase\bin\Debug\log4net.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.IDao\Tcent.IBase\obj\Debug\Tcent.IBase.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.IDao\Tcent.IBase\obj\Debug\Tcent.IBase.pdb
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.IDao\Tcent.IBase\bin\Debug\Tcent.Common.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.IDao\Tcent.IBase\bin\Debug\Tcent.Domain.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.IDao\Tcent.IBase\bin\Debug\System.Web.Mvc.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.IDao\Tcent.IBase\bin\Debug\Tcent.Common.pdb
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.IDao\Tcent.IBase\bin\Debug\Tcent.Domain.pdb
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.IDao\Tcent.IBase\bin\Debug\System.Web.Mvc.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.IDao\Tcent.IBase\obj\Debug\Tcent.IBase.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Library\Tcent.Domain\bin\Debug\Tcent.Domain.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Library\Tcent.Domain\bin\Debug\Tcent.Domain.pdb
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Library\Tcent.Domain\obj\Debug\Tcent.Domain.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Library\Tcent.Domain\obj\Debug\Tcent.Domain.pdb
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Library\Tcent.Domain\bin\Debug\Tcent.Domain.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Library\Tcent.Domain\bin\Debug\Tcent.Domain.pdb
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Library\Tcent.Domain\obj\Debug\Tcent.Domain.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Library\Tcent.Domain\obj\Debug\Tcent.Domain.pdb

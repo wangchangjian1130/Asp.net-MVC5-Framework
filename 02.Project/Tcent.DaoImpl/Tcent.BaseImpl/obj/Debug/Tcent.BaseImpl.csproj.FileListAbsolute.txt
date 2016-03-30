@@ -1,0 +1,12 @@
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.DaoImpl\Tcent.BaseImpl\bin\Debug\Tcent.BaseImpl.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.DaoImpl\Tcent.BaseImpl\bin\Debug\Tcent.BaseImpl.pdb
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Tcent.BaseImpl.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Tcent.BaseImpl.pdb
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.DaoImpl\Tcent.BaseImpl\obj\Debug\Tcent.BaseImpl.csprojResolveAssemblyReference.cache
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.DaoImpl\Tcent.BaseImpl\obj\Debug\Tcent.BaseImpl.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.DaoImpl\Tcent.BaseImpl\obj\Debug\Tcent.BaseImpl.pdb
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Tcent.BaseImpl.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Tcent.BaseImpl.pdb
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.DaoImpl\Tcent.BaseImpl\obj\Debug\Tcent.BaseImpl.csprojResolveAssemblyReference.cache
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.DaoImpl\Tcent.BaseImpl\obj\Debug\Tcent.BaseImpl.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.DaoImpl\Tcent.BaseImpl\obj\Debug\Tcent.BaseImpl.pdb

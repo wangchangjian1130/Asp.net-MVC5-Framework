@@ -1,0 +1,305 @@
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\ApplicationInsights.config
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\roslyn\csc.exe
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\roslyn\csc.exe.config
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\roslyn\csc.rsp
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\roslyn\csi.exe
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\roslyn\csi.rsp
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\roslyn\System.AppContext.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\roslyn\System.Console.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\roslyn\vbc.exe
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\roslyn\vbc.exe.config
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\roslyn\vbc.rsp
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\roslyn\VBCSCompiler.exe
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Tcent.Api.Web.dll.config
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Tcent.Api.Web.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Tcent.Api.Web.pdb
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Antlr3.Runtime.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Microsoft.AI.Web.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Microsoft.AI.WindowsServer.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Microsoft.ApplicationInsights.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Microsoft.Owin.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Microsoft.Owin.Host.HttpListener.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Microsoft.Owin.Hosting.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Microsoft.Practices.ServiceLocation.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Microsoft.Practices.Unity.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Microsoft.Practices.Unity.Mvc.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Newtonsoft.Json.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Owin.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\System.Net.Http.Formatting.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\System.Web.Cors.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\System.Web.Helpers.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\System.Web.Http.Cors.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\System.Web.Http.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\System.Web.Http.Owin.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\System.Web.Http.WebHost.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\System.Web.Mvc.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\System.Web.Optimization.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\System.Web.Razor.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\System.Web.WebPages.Deployment.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\System.Web.WebPages.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\System.Web.WebPages.Razor.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\WebActivatorEx.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\WebGrease.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Antlr3.Runtime.pdb
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Microsoft.AI.Web.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Microsoft.AI.WindowsServer.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Microsoft.ApplicationInsights.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Microsoft.Owin.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Microsoft.Owin.Host.HttpListener.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Microsoft.Owin.Hosting.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Microsoft.Practices.ServiceLocation.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Microsoft.Practices.Unity.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Microsoft.Practices.Unity.Mvc.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\Newtonsoft.Json.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\System.Web.Http.Cors.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\System.Web.Http.Owin.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\System.Net.Http.Formatting.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\System.Web.Helpers.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\System.Web.Http.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\System.Web.Http.WebHost.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\System.Web.Mvc.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\System.Web.Optimization.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\System.Web.Razor.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\System.Web.WebPages.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\System.Web.WebPages.Deployment.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\bin\System.Web.WebPages.Razor.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\obj\Debug\Tcent.Api.Web.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\obj\Debug\Tcent.Api.Web.pdb
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web\obj\Debug\Tcent.Api.Web.csprojResolveAssemblyReference.cache
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\ApplicationInsights.config
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\csc.exe
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\csc.exe.config
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\csc.rsp
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\csi.exe
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\csi.rsp
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\System.AppContext.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\System.Console.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\vbc.exe
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\vbc.exe.config
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\vbc.rsp
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\VBCSCompiler.exe
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Tcent.Api.Web.dll.config
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Tcent.Api.Web.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Tcent.Api.Web.pdb
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Antlr3.Runtime.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.AI.Web.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.AI.WindowsServer.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.ApplicationInsights.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.Owin.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.Owin.Host.HttpListener.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.Owin.Hosting.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.Practices.ServiceLocation.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.Practices.Unity.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.Practices.Unity.Mvc.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.Web.XmlTransform.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Newtonsoft.Json.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Owin.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Net.Http.Formatting.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.Cors.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.Helpers.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.Http.Cors.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.Http.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.Http.Owin.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.Http.WebHost.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.Mvc.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.Optimization.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.Razor.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.WebPages.Deployment.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.WebPages.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.WebPages.Razor.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Tcent.Common.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Tcent.IBase.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\WebActivatorEx.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\WebGrease.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Antlr3.Runtime.pdb
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.AI.Web.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.AI.WindowsServer.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.ApplicationInsights.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.Owin.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.Owin.Host.HttpListener.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.Owin.Hosting.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.Practices.ServiceLocation.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.Practices.Unity.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.Practices.Unity.Mvc.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Newtonsoft.Json.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.Http.Cors.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.Http.Owin.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Net.Http.Formatting.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.Helpers.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.Http.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.Http.WebHost.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.Mvc.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.Optimization.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.Razor.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.WebPages.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.WebPages.Deployment.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.WebPages.Razor.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Tcent.Common.pdb
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Tcent.IBase.pdb
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\obj\Debug\Tcent.Api.Web.csprojResolveAssemblyReference.cache
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\obj\Debug\Tcent.Api.Web.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\obj\Debug\Tcent.Api.Web.pdb
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Tcent.Domain.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Tcent.Domain.pdb
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\ApplicationInsights.config
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\csc.exe
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\csc.exe.config
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\csc.rsp
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\csi.exe
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\csi.rsp
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\System.AppContext.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\System.Console.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\vbc.exe
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\vbc.exe.config
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\vbc.rsp
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\VBCSCompiler.exe
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Tcent.Api.Web.dll.config
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Tcent.Api.Web.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Tcent.Api.Web.pdb
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Antlr3.Runtime.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\log4net.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.AI.Web.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.AI.WindowsServer.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.ApplicationInsights.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.Practices.Unity.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.Practices.Unity.Mvc.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.Web.XmlTransform.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Newtonsoft.Json.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Net.Http.Formatting.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.Cors.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.Helpers.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.Http.Cors.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.Http.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.Http.WebHost.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.Mvc.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.Optimization.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.Razor.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.WebPages.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.WebPages.Razor.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Tcent.Common.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Tcent.IBase.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\WebActivatorEx.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\WebGrease.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Antlr3.Runtime.pdb
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\log4net.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.AI.Web.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.AI.WindowsServer.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.ApplicationInsights.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.Practices.ServiceLocation.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.Practices.Unity.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.Practices.Unity.Mvc.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Newtonsoft.Json.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.Http.Cors.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Net.Http.Formatting.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.Helpers.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.Http.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.Http.WebHost.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.Mvc.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.Optimization.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.Razor.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.WebPages.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\System.Web.WebPages.Razor.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Tcent.Common.pdb
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Tcent.IBase.pdb
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\obj\Debug\Tcent.Api.Web.csprojResolveAssemblyReference.cache
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\obj\Debug\Tcent.Api.Web.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\obj\Debug\Tcent.Api.Web.pdb
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Tcent.Domain.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Presentation\Tcent.Api.Web\bin\Tcent.Domain.pdb

@@ -1,0 +1,194 @@
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\ApplicationInsights.config
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\roslyn\csc.exe
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\roslyn\csc.exe.config
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\roslyn\csc.rsp
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\roslyn\csi.exe
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\roslyn\csi.rsp
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\roslyn\System.AppContext.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\roslyn\System.Console.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\roslyn\vbc.exe
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\roslyn\vbc.exe.config
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\roslyn\vbc.rsp
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\Tcent.Api.Web.Tests.dll.config
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\Tcent.Api.Web.Tests.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\Tcent.Api.Web.Tests.pdb
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\System.Web.Helpers.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\System.Web.Http.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\System.Web.Mvc.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\System.Web.Razor.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\System.Web.WebPages.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\Tcent.Api.Web.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\Microsoft.Owin.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\WebActivatorEx.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\System.Web.Optimization.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\Owin.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\System.Web.Http.Cors.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\System.Web.Http.Owin.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\Microsoft.Practices.Unity.Mvc.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\System.Web.Cors.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\Tcent.Api.Web.pdb
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\System.Web.Helpers.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\System.Web.Http.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\System.Web.Mvc.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\System.Web.Razor.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\System.Web.WebPages.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\Microsoft.Owin.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\System.Web.Optimization.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\System.Web.Http.Cors.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\System.Web.Http.Owin.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\Microsoft.Practices.Unity.Mvc.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\obj\Debug\Tcent.Api.Web.Tests.csprojResolveAssemblyReference.cache
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\obj\Debug\Tcent.Api.Web.Tests.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\Tcent.Api.Web.Tests\obj\Debug\Tcent.Api.Web.Tests.pdb
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\ApplicationInsights.config
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\csc.exe
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\csc.exe.config
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\csc.rsp
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\csi.exe
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\csi.rsp
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\System.AppContext.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\System.Console.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\vbc.exe
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\vbc.exe.config
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\vbc.rsp
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Tcent.Api.Web.Tests.dll.config
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Tcent.Api.Web.Tests.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Tcent.Api.Web.Tests.pdb
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Tcent.Api.Web.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\System.Web.Optimization.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\System.Web.Http.Cors.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Tcent.IBase.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Microsoft.Practices.Unity.Mvc.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\System.Web.Cors.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Tcent.Api.Web.pdb
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\System.Web.Optimization.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\System.Web.Http.Cors.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Tcent.IBase.pdb
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Microsoft.Practices.Unity.Mvc.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\obj\Debug\Tcent.Api.Web.Tests.csprojResolveAssemblyReference.cache
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\obj\Debug\Tcent.Api.Web.Tests.dll
+D:\wcj21259\Documents\Visual Studio 2015\Projects\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\obj\Debug\Tcent.Api.Web.Tests.pdb
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\ApplicationInsights.config
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\csc.exe
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\csc.exe.config
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\csc.rsp
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\csi.exe
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\csi.rsp
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\System.AppContext.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\System.Console.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\vbc.exe
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\vbc.exe.config
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\vbc.rsp
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Tcent.Api.Web.Tests.dll.config
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Tcent.Api.Web.Tests.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Tcent.Api.Web.Tests.pdb
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Dapper.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\log4net.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Tcent.Api.Web.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\System.Web.Http.Cors.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Tcent.IBase.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Microsoft.Practices.Unity.Mvc.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\System.Web.Cors.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Tcent.Api.Web.pdb
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Dapper.pdb
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Dapper.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\log4net.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\System.Web.Http.Cors.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Tcent.IBase.pdb
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Microsoft.Practices.Unity.Mvc.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\obj\Debug\Tcent.Api.Web.Tests.csprojResolveAssemblyReference.cache
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\obj\Debug\Tcent.Api.Web.Tests.dll
+D:\Tcent服务中心\Tcent.Api.Web\02.Project\Tcent.Api.Web.Tests\obj\Debug\Tcent.Api.Web.Tests.pdb
